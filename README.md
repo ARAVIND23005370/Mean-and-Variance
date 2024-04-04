@@ -1,5 +1,5 @@
-## NAME :RAKSHITHA P
-## REGISTER NUMBER:212223220083
+## NAME :ARAVIND R
+## REGISTER NUMBER:212223230019
 
 #  Mean and variance of a discrete  distribution
 
